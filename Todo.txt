@@ -2,5 +2,5 @@ Conversion functions needed:
 
 - Dollar to Cents
 - Gallons to Liters
-- Hours to Minutes
+- Miles to Kms
 
