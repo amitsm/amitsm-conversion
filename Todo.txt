@@ -3,4 +3,5 @@ Conversion functions needed:
 - Dollar to Cents
 - Gallons to Liters
 - Miles to Kms
+- kgs to lbs
 
